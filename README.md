@@ -33,7 +33,7 @@ A React-based application to manage a list of cars with features such as adding,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-management-app.git
+   git clone https://github.com/Saleh0987/car-management-app.git
    cd car-management-app
    ```
 
@@ -46,3 +46,9 @@ A React-based application to manage a list of cars with features such as adding,
    ```bash
    npm start
    ```
+
+   ---
+
+   ## Live Link
+
+- https://car-management23.vercel.app/
